@@ -13,6 +13,7 @@ namespace lab2.server {
 			var ip = IPAddress.Parse("127.0.0.1");
 			var listener = new TcpListener(ip, Port);
 			listener.Start();
+			Console.WriteLine("Started server");
 
 			while (true) {
 				var client = listener.AcceptTcpClient();

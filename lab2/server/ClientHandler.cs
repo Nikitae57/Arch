@@ -12,7 +12,7 @@ namespace lab2.server {
 		private ServerInterface sender;
 		private StreamWriter writer;
 		private System.Timers.Timer heartBeatTimer;
-		public String clientIp;
+		public string clientIp;
 
 		public ClientHandler(TcpClient client, ServerInterface sender) {
 			this.client = client;

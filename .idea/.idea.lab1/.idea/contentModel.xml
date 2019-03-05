@@ -33,7 +33,7 @@
         </e>
         <e p="server" t="Include">
           <e p="ClientHandler.cs" t="Include" />
-          <e p="Main.cs" t="Include" />
+          <e p="MainClass.cs" t="Include" />
           <e p="Server.cs" t="Include" />
           <e p="ServerInterface.cs" t="Include" />
         </e>

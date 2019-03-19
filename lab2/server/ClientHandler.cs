@@ -46,8 +46,11 @@ namespace lab2.server {
 			var reader = (StreamReader) r;
 			while (true) {
 				var msg = reader.ReadLine();
-				Console.WriteLine(msg);
-				sender.sendToEveryone(msg);
+				if (!msg.Equals(Messages.HeartbeatMsg.Alive))
+				{
+					sender.sendToEveryone(msg);
+					Console.WriteLine(msg);
+				}
 				
 				heartBeatTimer.Stop();
 				heartBeatTimer.Start();

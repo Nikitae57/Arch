@@ -1,0 +1,15 @@
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\bin\Debug\lab3.exe.config
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\bin\Debug\lab3.exe
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\bin\Debug\lab3.pdb
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\obj\Debug\lab3.LoginMenu.resources
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\obj\Debug\lab3.exe
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\obj\Debug\lab3.pdb
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\bin\Debug\aspnet_regsql.exe
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\bin\Debug\aspnet_regsql.exe.config
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\bin\Debug\ru\aspnet_regsql.resources.dll
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\obj\Debug\lab3.Chat.resources
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\obj\Debug\lab3.csproj.CopyComplete

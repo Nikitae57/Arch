@@ -1,0 +1,19 @@
+C:\Users\Антон\Desktop\flash\!!!!2013\ПиАПС\практики с#\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.exe.config
+C:\Users\Антон\Desktop\flash\!!!!2013\ПиАПС\практики с#\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.exe
+C:\Users\Антон\Desktop\flash\!!!!2013\ПиАПС\практики с#\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.pdb
+C:\Users\Антон\Desktop\flash\!!!!2013\ПиАПС\практики с#\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\flash\!!!!2013\ПиАПС\практики с#\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.exe
+C:\Users\Антон\Desktop\flash\!!!!2013\ПиАПС\практики с#\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.pdb
+D:\projects\arch\labs\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.exe.config
+D:\projects\arch\labs\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.exe
+D:\projects\arch\labs\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.pdb
+D:\projects\arch\labs\XMLRPCServer\XMLRPCServer\bin\Debug\mscorlib.dll
+D:\projects\arch\labs\XMLRPCServer\XMLRPCServer\bin\Debug\ru\mscorlib.resources.dll
+D:\projects\arch\labs\XMLRPCServer\XMLRPCServer\bin\Debug\normidna.nlp
+D:\projects\arch\labs\XMLRPCServer\XMLRPCServer\bin\Debug\normnfc.nlp
+D:\projects\arch\labs\XMLRPCServer\XMLRPCServer\bin\Debug\normnfd.nlp
+D:\projects\arch\labs\XMLRPCServer\XMLRPCServer\bin\Debug\normnfkc.nlp
+D:\projects\arch\labs\XMLRPCServer\XMLRPCServer\bin\Debug\normnfkd.nlp
+D:\projects\arch\labs\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.csprojResolveAssemblyReference.cache
+D:\projects\arch\labs\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.exe
+D:\projects\arch\labs\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.pdb

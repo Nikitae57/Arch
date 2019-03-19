@@ -13,3 +13,21 @@ C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архи
 C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\bin\Debug\ru\aspnet_regsql.resources.dll
 C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\obj\Debug\lab3.Chat.resources
 C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab3\obj\Debug\lab3.csproj.CopyComplete
+D:\projects\arch\labs\lab3\bin\Debug\lab3.exe.config
+D:\projects\arch\labs\lab3\bin\Debug\lab3.exe
+D:\projects\arch\labs\lab3\bin\Debug\lab3.pdb
+D:\projects\arch\labs\lab3\bin\Debug\mscorlib.dll
+D:\projects\arch\labs\lab3\bin\Debug\ru\mscorlib.resources.dll
+D:\projects\arch\labs\lab3\bin\Debug\ru\aspnet_regsql.resources.dll
+D:\projects\arch\labs\lab3\bin\Debug\normidna.nlp
+D:\projects\arch\labs\lab3\bin\Debug\normnfc.nlp
+D:\projects\arch\labs\lab3\bin\Debug\normnfd.nlp
+D:\projects\arch\labs\lab3\bin\Debug\normnfkc.nlp
+D:\projects\arch\labs\lab3\bin\Debug\normnfkd.nlp
+D:\projects\arch\labs\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+D:\projects\arch\labs\lab3\obj\Debug\lab3.Chat.resources
+D:\projects\arch\labs\lab3\obj\Debug\lab3.LoginMenu.resources
+D:\projects\arch\labs\lab3\obj\Debug\lab3.Properties.Resources.resources
+D:\projects\arch\labs\lab3\obj\Debug\lab3.csproj.GenerateResource.Cache
+D:\projects\arch\labs\lab3\obj\Debug\lab3.exe
+D:\projects\arch\labs\lab3\obj\Debug\lab3.pdb

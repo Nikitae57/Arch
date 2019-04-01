@@ -28,8 +28,87 @@ namespace XMLRPCServer
             server.Start();
         }
 
-        /// <summary>A method that returns the current time.</summary>
-        public DateTime Ping()
+		public string processMatrix(string matrix)
+		{
+			string[] strArray = matrix.Split(' ');
+			int matrixSize = Convert.ToInt32(Math.Sqrt(strArray.Length));
+			int[,] matrixInt = new int[matrixSize, matrixSize];
+			int k = 0;
+			for (int row = 0; row < matrixSize; row++)
+			{
+				for (int item = 0; item < matrixSize; item++)
+				{
+					matrixInt[row, item] = Convert.ToInt32(strArray[k++]); 
+				}
+			}
+
+			bool firstDiagonal = true;
+			int min = int.MaxValue;
+			for (int i = 0, j = 0; i < matrixSize || j < matrixSize; i++, j++)
+			{
+				if (matrixInt[i, j] < min)
+				{
+					min = matrixInt[i, j];
+				}
+			}
+			for (int i = 0, j = matrixSize - 1; i < matrixSize || j >= 0; i++, j--)
+			{
+				if (matrixInt[i, j] < min)
+				{
+					min = matrixInt[i, j];
+					firstDiagonal = false;
+				}
+			}
+			string res = "";
+			if (firstDiagonal)
+			{
+				for (int row = 0; row < matrixSize; row++)
+				{
+					for (int item = 0; item < matrixSize; item++)
+					{
+						if (item == row)
+						{
+							res += "0 ";
+						}
+						else if (item < row)
+						{
+							res += Convert.ToString(matrixInt[row, item] * matrixInt[row, item]) + ' ';
+						}
+						else
+						{
+							res += Convert.ToString(matrixInt[row, item]) + ' ';
+						}
+					}
+				}
+			}
+			else
+			{
+				for (int row = 0; row < matrixSize; row++)
+				{
+					for (int item = 0; item < matrixSize; item++)
+					{
+						if (item + row == matrixSize - 1)
+						{
+							res += "0 ";
+						}
+						else if (item + row > matrixSize - 1)
+						{
+							res += Convert.ToString(matrixInt[row, item] * matrixInt[row, item]) + ' ';
+						}
+						else
+						{
+							res += Convert.ToString(matrixInt[row, item]) + ' ';
+						}
+					}
+				}
+			}
+			res = res.Remove(res.Length - 1);
+			res += $"#{min}";
+			return res;
+		}
+
+		/// <summary>A method that returns the current time.</summary>
+		public DateTime Ping()
         {
             return DateTime.Now;
         }

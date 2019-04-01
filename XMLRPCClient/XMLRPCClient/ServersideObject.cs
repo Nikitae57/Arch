@@ -59,7 +59,7 @@ namespace XMLRPCClient
             XmlRpcResponse response;
             var matrixStr = "";
             var matrixSize = Convert.ToInt32(Math.Sqrt(matrix.Length));
-            
+
             for (int i = 0; i < matrixSize; i++) {
                 for (int j = 0; j < matrixSize; j++) {
                     matrixStr += Convert.ToString(matrix[i,j]);
@@ -80,14 +80,24 @@ namespace XMLRPCClient
                 return;
             }
 
-            var resultStr = response.Value.ToString();
-            var res = resultStr.Split("###DELIMITER###".ToCharArray());
+			Console.WriteLine("Old matrix:");
+			for (int i = 0; i < matrixSize; i++)
+			{
+				for (int j = 0; j < matrixSize; j++)
+				{
+					Console.Write($"{matrix[i, j]} ");
+				}
+				Console.WriteLine();
+			}
+
+			var resultStr = response.Value.ToString();
+            var res = resultStr.Split('#');
             var oneDimMatrix = res[0].Split(' ');
             var minElement = res[1];
             var resultMatrix = new int[matrixSize, matrixSize];
 
             var itemCounter = 0;
-            Console.WriteLine("Matrix: ");
+            Console.WriteLine("New matrix: ");
             for (int row = 0; row < matrixSize; row++) {
                 for (int item = 0; item < matrixSize; item++) {
                     resultMatrix[row, item] = Convert.ToInt32(oneDimMatrix[itemCounter]);

@@ -41,13 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Messages\HeartbeatMsg.cs" />
-    <Compile Include="Messages\UserMsg.cs" />
+    <Compile Include="controller\ClientHandler.cs" />
+    <Compile Include="controller\MainClass.cs" />
+    <Compile Include="controller\Server.cs" />
+    <Compile Include="controller\ServerInterface.cs" />
+    <Compile Include="model\HeartbeatMsg.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="server\ClientHandler.cs" />
-    <Compile Include="server\MainClass.cs" />
-    <Compile Include="server\ServerInterface.cs" />
-    <Compile Include="server\Server.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="doc.md" />

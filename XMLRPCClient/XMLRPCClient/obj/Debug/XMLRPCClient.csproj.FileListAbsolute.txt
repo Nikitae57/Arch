@@ -1,0 +1,13 @@
+D:\projects\arch\labs\XMLRPCClient\XMLRPCClient\bin\Debug\XMLRPCClient.exe.config
+D:\projects\arch\labs\XMLRPCClient\XMLRPCClient\bin\Debug\XMLRPCClient.exe
+D:\projects\arch\labs\XMLRPCClient\XMLRPCClient\bin\Debug\XMLRPCClient.pdb
+D:\projects\arch\labs\XMLRPCClient\XMLRPCClient\bin\Debug\mscorlib.dll
+D:\projects\arch\labs\XMLRPCClient\XMLRPCClient\bin\Debug\ru\mscorlib.resources.dll
+D:\projects\arch\labs\XMLRPCClient\XMLRPCClient\bin\Debug\normidna.nlp
+D:\projects\arch\labs\XMLRPCClient\XMLRPCClient\bin\Debug\normnfc.nlp
+D:\projects\arch\labs\XMLRPCClient\XMLRPCClient\bin\Debug\normnfd.nlp
+D:\projects\arch\labs\XMLRPCClient\XMLRPCClient\bin\Debug\normnfkc.nlp
+D:\projects\arch\labs\XMLRPCClient\XMLRPCClient\bin\Debug\normnfkd.nlp
+D:\projects\arch\labs\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.csprojResolveAssemblyReference.cache
+D:\projects\arch\labs\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.exe
+D:\projects\arch\labs\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.pdb

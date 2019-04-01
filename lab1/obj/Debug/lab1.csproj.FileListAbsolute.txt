@@ -9,3 +9,8 @@ C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архи
 C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
 C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab1\obj\Debug\lab1.exe
 C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab1\obj\Debug\lab1.pdb
+D:\projects\arch\labs\lab1\bin\Debug\lab1.exe
+D:\projects\arch\labs\lab1\bin\Debug\lab1.pdb
+D:\projects\arch\labs\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\projects\arch\labs\lab1\obj\Debug\lab1.exe
+D:\projects\arch\labs\lab1\obj\Debug\lab1.pdb

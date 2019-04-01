@@ -15,3 +15,10 @@ C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архи
 C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab2\obj\Debug\lab2.csproj.CopyComplete
 C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab2\obj\Debug\lab2.exe
 C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\lab2\obj\Debug\lab2.pdb
+D:\projects\arch\labs\lab2\bin\Debug\lab2.exe
+D:\projects\arch\labs\lab2\bin\Debug\lab2.pdb
+D:\projects\arch\labs\lab2\bin\Debug\Newtonsoft.Json.pdb
+D:\projects\arch\labs\lab2\bin\Debug\Newtonsoft.Json.xml
+D:\projects\arch\labs\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+D:\projects\arch\labs\lab2\obj\Debug\lab2.exe
+D:\projects\arch\labs\lab2\obj\Debug\lab2.pdb

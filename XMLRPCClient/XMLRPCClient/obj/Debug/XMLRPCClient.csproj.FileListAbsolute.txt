@@ -11,3 +11,10 @@ D:\projects\arch\labs\XMLRPCClient\XMLRPCClient\bin\Debug\normnfkd.nlp
 D:\projects\arch\labs\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.csprojResolveAssemblyReference.cache
 D:\projects\arch\labs\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.exe
 D:\projects\arch\labs\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.pdb
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\XMLRPCClient\XMLRPCClient\bin\Debug\XMLRPCClient.exe.config
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\XMLRPCClient\XMLRPCClient\bin\Debug\XMLRPCClient.exe
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\XMLRPCClient\XMLRPCClient\bin\Debug\XMLRPCClient.pdb
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.csprojAssemblyReference.cache
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.csproj.CoreCompileInputs.cache
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.exe
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.pdb

@@ -25,8 +25,9 @@ namespace XMLRPCClient
 
             Console.WriteLine("Enter matrix");
             for (int i = 0; i < size; i++) {
+				string[] row = Console.ReadLine().Split(' ');
                 for (int j = 0; j < size; j++) {
-                    matrix[i, j] = Convert.ToInt32(Console.ReadLine());
+                    matrix[i, j] = Convert.ToInt32(row[j]);
                 }
             }
 

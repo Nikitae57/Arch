@@ -17,3 +17,10 @@ D:\projects\arch\labs\XMLRPCServer\XMLRPCServer\bin\Debug\normnfkd.nlp
 D:\projects\arch\labs\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.csprojResolveAssemblyReference.cache
 D:\projects\arch\labs\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.exe
 D:\projects\arch\labs\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.pdb
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.exe.config
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.exe
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\XMLRPCServer\XMLRPCServer\bin\Debug\XMLRPCServer.pdb
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.csprojAssemblyReference.cache
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.csproj.CoreCompileInputs.cache
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.exe
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\XMLRPCServer\XMLRPCServer\obj\Debug\XMLRPCServer.pdb

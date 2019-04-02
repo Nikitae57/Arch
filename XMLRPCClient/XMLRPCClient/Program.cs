@@ -25,8 +25,9 @@ namespace XMLRPCClient
 
             Console.WriteLine("Enter matrix");
             for (int i = 0; i < size; i++) {
+				string[] row = Console.ReadLine().Split(' ');
                 for (int j = 0; j < size; j++) {
-                    matrix[i, j] = Convert.ToInt32(Console.ReadLine());
+                    matrix[i, j] = Convert.ToInt32(row[j]);
                 }
             }
 
@@ -36,9 +37,8 @@ namespace XMLRPCClient
         static void Main(string[] args) {
             obj = new ServersideObject("http://127.0.0.1:5050");
             var matrix = readMatrix();
-            var result = obj.processMatrix(matrix);
-            Console.WriteLine("matrix: " + result);
-            Console.ReadLine();
+            obj.processMatrix(matrix);
+			Console.ReadLine();
         }
     }
 }

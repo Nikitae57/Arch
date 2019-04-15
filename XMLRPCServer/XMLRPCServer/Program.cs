@@ -118,7 +118,12 @@ namespace XMLRPCServer
         {
             return arg;
         }
-        
-        
+
+        public String processMatrix(String matrixStr) {
+            var matrixElements = matrixStr.Split(' ');
+            var matrixSize = Convert.ToInt32(Math.Sqrt(matrixElements.Length));
+            
+            
+        }
     }
 }

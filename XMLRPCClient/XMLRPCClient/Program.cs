@@ -38,7 +38,7 @@ namespace XMLRPCClient
             obj = new ServersideObject("http://127.0.0.1:5050");
             var matrix = readMatrix();
             obj.processMatrix(matrix);
-			Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }

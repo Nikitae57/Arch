@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLRPCClient", "XMLRPCClien
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLRPCServer", "XMLRPCServer\XMLRPCServer\XMLRPCServer.csproj", "{32FAB9D0-1735-4AC3-AF94-7DD63CDBF993}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab6", "lab6\lab6.csproj", "{625F0D6E-90C2-48F5-9E3C-566E3D1E32AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{32FAB9D0-1735-4AC3-AF94-7DD63CDBF993}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32FAB9D0-1735-4AC3-AF94-7DD63CDBF993}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32FAB9D0-1735-4AC3-AF94-7DD63CDBF993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{625F0D6E-90C2-48F5-9E3C-566E3D1E32AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625F0D6E-90C2-48F5-9E3C-566E3D1E32AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625F0D6E-90C2-48F5-9E3C-566E3D1E32AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625F0D6E-90C2-48F5-9E3C-566E3D1E32AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

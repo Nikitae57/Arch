@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="47e7dffd-8b7f-4932-9f69-355334b3eb2b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:53688/AlgorithmService/AlgorithmService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="AlgorithmService.xsd" MetadataType="Schema" ID="d2a78347-9ad4-43d4-9c40-7fc1c9836abe" SourceId="1" SourceUrl="http://localhost:53688/AlgorithmService/AlgorithmService.svc?xsd=xsd2" />
+    <MetadataFile FileName="AlgorithmService1.xsd" MetadataType="Schema" ID="7da3f691-c361-4c65-a7e1-65010e6ad47a" SourceId="1" SourceUrl="http://localhost:53688/AlgorithmService/AlgorithmService.svc?xsd=xsd1" />
+    <MetadataFile FileName="AlgorithmService2.xsd" MetadataType="Schema" ID="f0cb8d04-7bf9-48bc-ad19-3d3c5bd02f71" SourceId="1" SourceUrl="http://localhost:53688/AlgorithmService/AlgorithmService.svc?xsd=xsd0" />
+    <MetadataFile FileName="AlgorithmService.wsdl" MetadataType="Wsdl" ID="0282b251-9a11-4b13-93c7-dcdb8f14108d" SourceId="1" SourceUrl="http://localhost:53688/AlgorithmService/AlgorithmService.svc?wsdl" />
+    <MetadataFile FileName="AlgorithmService.disco" MetadataType="Disco" ID="d3192175-abd7-4e6b-a9a7-ca95ceb9110f" SourceId="1" SourceUrl="http://localhost:53688/AlgorithmService/AlgorithmService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

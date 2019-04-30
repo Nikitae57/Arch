@@ -4,6 +4,42 @@
     <e p="C:\Users\Nikita\.Rider2018.3\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Nikita\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_lab1.-1519289590.00" t="ExcludeRecursive" />
     <e p="D:\projects\arch\labs" t="IncludeFlat">
+      <e p="Algorithm" t="IncludeRecursive">
+        <e p="Algorithm.csproj" t="IncludeRecursive" />
+        <e p="AlgorithmService.svc" t="Include" />
+        <e p="AlgorithmService.svc.cs" t="Include" />
+        <e p="App_Data" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="IAlgorithmService.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Web.config" t="Include" />
+        <e p="Web.Debug.config" t="Include" />
+        <e p="Web.Release.config" t="Include" />
+      </e>
+      <e p="Client" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Client.csproj" t="IncludeRecursive" />
+        <e p="Connected Services\Algorithm" t="Include">
+          <e p="AlgorithmService.disco" t="Include" />
+          <e p="AlgorithmService.wsdl" t="Include" />
+          <e p="AlgorithmService.xsd" t="Include" />
+          <e p="AlgorithmService1.xsd" t="Include" />
+          <e p="AlgorithmService2.xsd" t="Include" />
+          <e p="configuration.svcinfo" t="Include" />
+          <e p="configuration91.svcinfo" t="Include" />
+          <e p="Reference.cs" t="Include" />
+          <e p="Reference.svcmap" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
       <e p="lab1" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="ConsoleHandler.cs" t="Include" />
@@ -63,6 +99,26 @@
           <e p="LoginMenu.cs" t="Include" />
           <e p="LoginMenu.Designer.cs" t="Include" />
           <e p="LoginMenu.resx" t="Include" />
+        </e>
+      </e>
+      <e p="lab6" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="lab6.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Web References" t="Include">
+          <e p="net.yandex.speller" t="Include">
+            <e p="Reference.cs" t="Include" />
+            <e p="Reference.map" t="Include" />
+            <e p="SpellError.datasource" t="Include" />
+            <e p="spellservice.wsdl" t="Include" />
+          </e>
         </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />

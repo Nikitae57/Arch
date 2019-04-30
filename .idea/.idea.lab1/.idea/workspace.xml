@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b11d7512-5e68-477f-a23b-8aa2b7cef19a" name="Default Changelist" comment="Added lab 4 client">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lab1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lab1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lab1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Algorithm.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Algorithm.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/Client.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Client.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/Client.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/Client.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/XMLRPCClient.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/XMLRPCClient.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/App.config" beforeDir="false" afterPath="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/App.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/XMLRPCServer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/XMLRPCServer.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/obj/Debug/lab2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/obj/Debug/lab2.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/App.config" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/App.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/lab3.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/lab3.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/obj/Debug/lab3.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/obj/Debug/lab3.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/lab6.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/lab6.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,21 +25,97 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
               <folding>
-                <marker date="1552983184604" expanded="false" signature="6:159" ph="..." />
-                <marker date="1552983184604" expanded="true" signature="183:1376" ph="{...}" />
-                <marker date="1552983184604" expanded="true" signature="202:1374" ph="{...}" />
-                <marker date="1552983184604" expanded="true" signature="315:469" ph="{...}" />
-                <marker date="1552983184604" expanded="true" signature="509:828" ph="{...}" />
-                <marker date="1552983184604" expanded="true" signature="931:984" ph="{...}" />
-                <marker date="1552983184604" expanded="true" signature="1096:1140" ph="{...}" />
-                <marker date="1552983184604" expanded="true" signature="1196:1368" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="6:159" ph="..." />
+                <marker date="1556602560311" expanded="true" signature="183:3135" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="202:3133" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="315:469" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="509:828" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="874:2599" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="1100:1233" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="1155:1228" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="1361:1442" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="1397:1437" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="1517:1626" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="1553:1621" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="1668:2074" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="1720:2069" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="1777:2063" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="1807:1843" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="1870:1969" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="1980:2056" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="2082:2522" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="2134:2517" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="2191:2511" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="2238:2274" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="2318:2417" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="2428:2504" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="2690:2743" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="2855:2899" ph="{...}" />
+                <marker date="1556602560311" expanded="true" signature="2955:3127" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/App.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab3/Properties/Resources.resx">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab3/Properties/Settings.settings">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab3/controller/Client.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1482">
+              <caret line="88" column="13" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+              <folding>
+                <marker date="1552982495200" expanded="false" signature="6:257" ph="..." />
+                <marker date="1552982495200" expanded="true" signature="280:1988" ph="{...}" />
+                <marker date="1552982495200" expanded="true" signature="303:1983" ph="{...}" />
+                <marker date="1552982495200" expanded="true" signature="518:803" ph="{...}" />
+                <marker date="1552982495200" expanded="true" signature="558:751" ph="{...}" />
+                <marker date="1552982495200" expanded="true" signature="775:799" ph="{...}" />
+                <marker date="1552982495200" expanded="true" signature="846:987" ph="{...}" />
+                <marker date="1552982495200" expanded="true" signature="1024:1136" ph="{...}" />
+                <marker date="1552982495200" expanded="true" signature="1035:1084" ph="{...}" />
+                <marker date="1552982495200" expanded="true" signature="1108:1132" ph="{...}" />
+                <marker date="1552982495200" expanded="true" signature="1175:1535" ph="{...}" />
+                <marker date="1552982495200" expanded="true" signature="1231:1294" ph="{...}" />
+                <marker date="1552982495200" expanded="true" signature="1318:1531" ph="{...}" />
+                <marker date="1552982495200" expanded="true" signature="1324:1526" ph="/* MessageBox.Show( ... */" />
+                <marker date="1552982495200" expanded="true" signature="1600:1980" ph="{...}" />
+                <marker date="1552982495200" expanded="true" signature="1611:1692" ph="{...}" />
+                <marker date="1552982495200" expanded="true" signature="1716:1972" ph="{...}" />
+                <marker date="1552982495200" expanded="true" signature="1740:1943" ph="/* MessageBox.Show( ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab3/App.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -36,17 +123,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
+            <state relative-caret-position="114">
               <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
               <folding>
-                <marker date="1552983184624" expanded="false" signature="6:159" ph="..." />
-                <marker date="1552983184624" expanded="true" signature="183:1233" ph="{...}" />
-                <marker date="1552983184624" expanded="true" signature="203:1231" ph="{...}" />
-                <marker date="1552983184624" expanded="true" signature="378:532" ph="{...}" />
-                <marker date="1552983184624" expanded="true" signature="577:1021" ph="{...}" />
-                <marker date="1552983184624" expanded="true" signature="829:983" ph="{...}" />
-                <marker date="1552983184624" expanded="true" signature="878:969" ph="{...}" />
-                <marker date="1552983184624" expanded="true" signature="1071:1225" ph="{...}" />
+                <marker date="1554177822123" expanded="false" signature="6:159" ph="..." />
+                <marker date="1554177822123" expanded="true" signature="183:1303" ph="{...}" />
+                <marker date="1554177822123" expanded="true" signature="203:1301" ph="{...}" />
+                <marker date="1554177822123" expanded="true" signature="378:532" ph="{...}" />
+                <marker date="1554177822123" expanded="true" signature="577:1059" ph="{...}" />
+                <marker date="1554177822123" expanded="true" signature="829:1021" ph="{...}" />
+                <marker date="1554177822123" expanded="true" signature="928:1007" ph="{...}" />
+                <marker date="1554177822123" expanded="true" signature="1109:1295" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -55,25 +142,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/ServersideObject.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1178">
+            <state relative-caret-position="1292">
               <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
               <folding>
-                <marker date="1552982495000" expanded="false" signature="6:133" ph="..." />
-                <marker date="1552982495000" expanded="true" signature="157:3350" ph="{...}" />
-                <marker date="1552982495000" expanded="true" signature="186:3348" ph="{...}" />
-                <marker date="1552982495000" expanded="true" signature="304:367" ph="{...}" />
-                <marker date="1552982495000" expanded="true" signature="412:504" ph="{...}" />
-                <marker date="1552982495000" expanded="true" signature="536:989" ph="{...}" />
-                <marker date="1552982495000" expanded="true" signature="745:897" ph="{...}" />
-                <marker date="1552982495000" expanded="true" signature="897:979" ph="{...}" />
-                <marker date="1552982495000" expanded="true" signature="1101:1608" ph="{...}" />
-                <marker date="1552982495000" expanded="true" signature="1381:1531" ph="{...}" />
-                <marker date="1552982495000" expanded="true" signature="1659:3342" ph="{...}" />
-                <marker date="1552982495000" expanded="true" signature="1864:2054" ph="{...}" />
-                <marker date="1552982495000" expanded="true" signature="1919:2040" ph="{...}" />
-                <marker date="1552982495000" expanded="true" signature="2386:2533" ph="{...}" />
-                <marker date="1552982495000" expanded="true" signature="2945:3270" ph="{...}" />
-                <marker date="1552982495000" expanded="true" signature="3009:3219" ph="{...}" />
+                <marker date="1554177496731" expanded="false" signature="6:133" ph="..." />
+                <marker date="1554177496731" expanded="true" signature="157:3511" ph="{...}" />
+                <marker date="1554177496731" expanded="true" signature="186:3509" ph="{...}" />
+                <marker date="1554177496731" expanded="true" signature="304:367" ph="{...}" />
+                <marker date="1554177496731" expanded="true" signature="412:504" ph="{...}" />
+                <marker date="1554177496731" expanded="true" signature="536:989" ph="{...}" />
+                <marker date="1554177496731" expanded="true" signature="745:897" ph="{...}" />
+                <marker date="1554177496731" expanded="true" signature="897:979" ph="{...}" />
+                <marker date="1554177496731" expanded="true" signature="1101:1608" ph="{...}" />
+                <marker date="1554177496731" expanded="true" signature="1381:1531" ph="{...}" />
+                <marker date="1554177496731" expanded="true" signature="1659:3503" ph="{...}" />
+                <marker date="1554177496731" expanded="true" signature="1852:2042" ph="{...}" />
+                <marker date="1554177496731" expanded="true" signature="1907:2028" ph="{...}" />
+                <marker date="1554177496731" expanded="true" signature="2374:2521" ph="{...}" />
+                <marker date="1554177496731" expanded="true" signature="2599:2727" ph="{...}" />
+                <marker date="1554177496731" expanded="true" signature="2645:2697" ph="{...}" />
+                <marker date="1554177496731" expanded="true" signature="3106:3431" ph="{...}" />
+                <marker date="1554177496731" expanded="true" signature="3170:3380" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -82,7 +171,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/nwc/XmlRpcServer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
+            <state relative-caret-position="969">
               <caret line="59" column="51" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
               <folding>
                 <marker date="1552982495127" expanded="true" signature="20:4196" ph="{...}" />
@@ -141,6 +230,7 @@
     <setting file="file://$PROJECT_DIR$/lab2/controller/MainClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab2/controller/Server.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/DA2502C5-0798-42B1-9AAF-45D431B1301B/2d/83f301d7/System.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab3/Properties/Resources.resx" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab2/controller/ServerInterface.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab2/controller/ClientHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab2/model/HeartbeatMsg.cs" root0="FORCE_HIGHLIGHTING" />
@@ -150,7 +240,9 @@
     <setting file="file://$PROJECT_DIR$/lab3/view/LoginMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab1/Five.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/App.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab1/One.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab3/App.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab1/ConsoleHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab3/controller/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab1/Two.cs" root0="FORCE_HIGHLIGHTING" />
@@ -186,13 +278,15 @@
         <option value="$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/ServersideObject.cs" />
         <option value="$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/Program.cs" />
         <option value="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/Program.cs" />
+        <option value="$PROJECT_DIR$/lab3/App.config" />
+        <option value="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/App.config" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -202,18 +296,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="lab1" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="AssemblyExplorer">
         <subPane>
           <expand>
@@ -226,12 +308,16 @@
         </subPane>
       </pane>
       <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="do_not_show_solution_notification" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/XMLRPCServer.csproj" />
     <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
   </component>
@@ -345,6 +431,9 @@
       <workItem from="1552974078599" duration="3896000" />
       <workItem from="1552978004455" duration="5311000" />
       <workItem from="1554177198559" duration="35000" />
+      <workItem from="1556602984958" duration="266000" />
+      <workItem from="1556603271040" duration="81000" />
+      <workItem from="1556603370317" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="Added lab2. Fixed main function">
       <created>1551772867077</created>
@@ -357,7 +446,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22709000" />
+    <option name="totallyTimeSpent" value="23081000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -371,7 +460,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19463088" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20268457" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -504,11 +593,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab2/doc.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="380">
@@ -517,6 +601,11 @@
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -576,33 +665,6 @@
             <marker date="1552982495200" expanded="true" signature="164:419" ph="{...}" />
             <marker date="1552982495200" expanded="true" signature="170:242" ph="/// Главная точка входа для приложения. ... " />
             <marker date="1552982495200" expanded="true" signature="277:416" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab3/controller/Client.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="88" column="13" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
-          <folding>
-            <marker date="1552982495200" expanded="false" signature="6:257" ph="..." />
-            <marker date="1552982495200" expanded="true" signature="280:1988" ph="{...}" />
-            <marker date="1552982495200" expanded="true" signature="303:1983" ph="{...}" />
-            <marker date="1552982495200" expanded="true" signature="518:803" ph="{...}" />
-            <marker date="1552982495200" expanded="true" signature="558:751" ph="{...}" />
-            <marker date="1552982495200" expanded="true" signature="775:799" ph="{...}" />
-            <marker date="1552982495200" expanded="true" signature="846:987" ph="{...}" />
-            <marker date="1552982495200" expanded="true" signature="1024:1136" ph="{...}" />
-            <marker date="1552982495200" expanded="true" signature="1035:1084" ph="{...}" />
-            <marker date="1552982495200" expanded="true" signature="1108:1132" ph="{...}" />
-            <marker date="1552982495200" expanded="true" signature="1175:1535" ph="{...}" />
-            <marker date="1552982495200" expanded="true" signature="1231:1294" ph="{...}" />
-            <marker date="1552982495200" expanded="true" signature="1318:1531" ph="{...}" />
-            <marker date="1552982495200" expanded="true" signature="1324:1526" ph="/* MessageBox.Show( ... */" />
-            <marker date="1552982495200" expanded="true" signature="1600:1980" ph="{...}" />
-            <marker date="1552982495200" expanded="true" signature="1611:1692" ph="{...}" />
-            <marker date="1552982495200" expanded="true" signature="1716:1972" ph="{...}" />
-            <marker date="1552982495200" expanded="true" signature="1740:1943" ph="/* MessageBox.Show( ... */" />
           </folding>
         </state>
       </provider>
@@ -680,66 +742,127 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
           <folding>
-            <marker date="1552983184604" expanded="false" signature="6:159" ph="..." />
-            <marker date="1552983184604" expanded="true" signature="183:1376" ph="{...}" />
-            <marker date="1552983184604" expanded="true" signature="202:1374" ph="{...}" />
-            <marker date="1552983184604" expanded="true" signature="315:469" ph="{...}" />
-            <marker date="1552983184604" expanded="true" signature="509:828" ph="{...}" />
-            <marker date="1552983184604" expanded="true" signature="931:984" ph="{...}" />
-            <marker date="1552983184604" expanded="true" signature="1096:1140" ph="{...}" />
-            <marker date="1552983184604" expanded="true" signature="1196:1368" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="6:159" ph="..." />
+            <marker date="1556602560311" expanded="true" signature="183:3135" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="202:3133" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="315:469" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="509:828" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="874:2599" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="1100:1233" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="1155:1228" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="1361:1442" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="1397:1437" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="1517:1626" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="1553:1621" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="1668:2074" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="1720:2069" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="1777:2063" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="1807:1843" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="1870:1969" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="1980:2056" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="2082:2522" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="2134:2517" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="2191:2511" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="2238:2274" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="2318:2417" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="2428:2504" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="2690:2743" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="2855:2899" ph="{...}" />
+            <marker date="1556602560311" expanded="true" signature="2955:3127" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/Properties/Resources.resx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/Properties/Settings.settings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/controller/Client.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="88" column="13" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+          <folding>
+            <marker date="1552982495200" expanded="false" signature="6:257" ph="..." />
+            <marker date="1552982495200" expanded="true" signature="280:1988" ph="{...}" />
+            <marker date="1552982495200" expanded="true" signature="303:1983" ph="{...}" />
+            <marker date="1552982495200" expanded="true" signature="518:803" ph="{...}" />
+            <marker date="1552982495200" expanded="true" signature="558:751" ph="{...}" />
+            <marker date="1552982495200" expanded="true" signature="775:799" ph="{...}" />
+            <marker date="1552982495200" expanded="true" signature="846:987" ph="{...}" />
+            <marker date="1552982495200" expanded="true" signature="1024:1136" ph="{...}" />
+            <marker date="1552982495200" expanded="true" signature="1035:1084" ph="{...}" />
+            <marker date="1552982495200" expanded="true" signature="1108:1132" ph="{...}" />
+            <marker date="1552982495200" expanded="true" signature="1175:1535" ph="{...}" />
+            <marker date="1552982495200" expanded="true" signature="1231:1294" ph="{...}" />
+            <marker date="1552982495200" expanded="true" signature="1318:1531" ph="{...}" />
+            <marker date="1552982495200" expanded="true" signature="1324:1526" ph="/* MessageBox.Show( ... */" />
+            <marker date="1552982495200" expanded="true" signature="1600:1980" ph="{...}" />
+            <marker date="1552982495200" expanded="true" signature="1611:1692" ph="{...}" />
+            <marker date="1552982495200" expanded="true" signature="1716:1972" ph="{...}" />
+            <marker date="1552982495200" expanded="true" signature="1740:1943" ph="/* MessageBox.Show( ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/App.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="114">
           <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
           <folding>
-            <marker date="1552983184624" expanded="false" signature="6:159" ph="..." />
-            <marker date="1552983184624" expanded="true" signature="183:1233" ph="{...}" />
-            <marker date="1552983184624" expanded="true" signature="203:1231" ph="{...}" />
-            <marker date="1552983184624" expanded="true" signature="378:532" ph="{...}" />
-            <marker date="1552983184624" expanded="true" signature="577:1021" ph="{...}" />
-            <marker date="1552983184624" expanded="true" signature="829:983" ph="{...}" />
-            <marker date="1552983184624" expanded="true" signature="878:969" ph="{...}" />
-            <marker date="1552983184624" expanded="true" signature="1071:1225" ph="{...}" />
+            <marker date="1554177822123" expanded="false" signature="6:159" ph="..." />
+            <marker date="1554177822123" expanded="true" signature="183:1303" ph="{...}" />
+            <marker date="1554177822123" expanded="true" signature="203:1301" ph="{...}" />
+            <marker date="1554177822123" expanded="true" signature="378:532" ph="{...}" />
+            <marker date="1554177822123" expanded="true" signature="577:1059" ph="{...}" />
+            <marker date="1554177822123" expanded="true" signature="829:1021" ph="{...}" />
+            <marker date="1554177822123" expanded="true" signature="928:1007" ph="{...}" />
+            <marker date="1554177822123" expanded="true" signature="1109:1295" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/ServersideObject.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1178">
+        <state relative-caret-position="1292">
           <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
           <folding>
-            <marker date="1552982495000" expanded="false" signature="6:133" ph="..." />
-            <marker date="1552982495000" expanded="true" signature="157:3350" ph="{...}" />
-            <marker date="1552982495000" expanded="true" signature="186:3348" ph="{...}" />
-            <marker date="1552982495000" expanded="true" signature="304:367" ph="{...}" />
-            <marker date="1552982495000" expanded="true" signature="412:504" ph="{...}" />
-            <marker date="1552982495000" expanded="true" signature="536:989" ph="{...}" />
-            <marker date="1552982495000" expanded="true" signature="745:897" ph="{...}" />
-            <marker date="1552982495000" expanded="true" signature="897:979" ph="{...}" />
-            <marker date="1552982495000" expanded="true" signature="1101:1608" ph="{...}" />
-            <marker date="1552982495000" expanded="true" signature="1381:1531" ph="{...}" />
-            <marker date="1552982495000" expanded="true" signature="1659:3342" ph="{...}" />
-            <marker date="1552982495000" expanded="true" signature="1864:2054" ph="{...}" />
-            <marker date="1552982495000" expanded="true" signature="1919:2040" ph="{...}" />
-            <marker date="1552982495000" expanded="true" signature="2386:2533" ph="{...}" />
-            <marker date="1552982495000" expanded="true" signature="2945:3270" ph="{...}" />
-            <marker date="1552982495000" expanded="true" signature="3009:3219" ph="{...}" />
+            <marker date="1554177496731" expanded="false" signature="6:133" ph="..." />
+            <marker date="1554177496731" expanded="true" signature="157:3511" ph="{...}" />
+            <marker date="1554177496731" expanded="true" signature="186:3509" ph="{...}" />
+            <marker date="1554177496731" expanded="true" signature="304:367" ph="{...}" />
+            <marker date="1554177496731" expanded="true" signature="412:504" ph="{...}" />
+            <marker date="1554177496731" expanded="true" signature="536:989" ph="{...}" />
+            <marker date="1554177496731" expanded="true" signature="745:897" ph="{...}" />
+            <marker date="1554177496731" expanded="true" signature="897:979" ph="{...}" />
+            <marker date="1554177496731" expanded="true" signature="1101:1608" ph="{...}" />
+            <marker date="1554177496731" expanded="true" signature="1381:1531" ph="{...}" />
+            <marker date="1554177496731" expanded="true" signature="1659:3503" ph="{...}" />
+            <marker date="1554177496731" expanded="true" signature="1852:2042" ph="{...}" />
+            <marker date="1554177496731" expanded="true" signature="1907:2028" ph="{...}" />
+            <marker date="1554177496731" expanded="true" signature="2374:2521" ph="{...}" />
+            <marker date="1554177496731" expanded="true" signature="2599:2727" ph="{...}" />
+            <marker date="1554177496731" expanded="true" signature="2645:2697" ph="{...}" />
+            <marker date="1554177496731" expanded="true" signature="3106:3431" ph="{...}" />
+            <marker date="1554177496731" expanded="true" signature="3170:3380" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/nwc/XmlRpcServer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
+        <state relative-caret-position="969">
           <caret line="59" column="51" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
           <folding>
             <marker date="1552982495127" expanded="true" signature="20:4196" ph="{...}" />
@@ -771,6 +894,13 @@
             <marker date="1552982495127" expanded="true" signature="4027:4103" ph="///Add an XML-RPC handler object by name. ... " />
             <marker date="1552982495127" expanded="true" signature="4148:4190" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/App.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
         </state>
       </provider>
     </entry>

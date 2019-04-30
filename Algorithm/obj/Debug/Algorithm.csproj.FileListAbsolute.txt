@@ -1,0 +1,7 @@
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\Algorithm\bin\Algorithm.dll.config
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\Algorithm\bin\Algorithm.dll
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\Algorithm\bin\Algorithm.pdb
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\Algorithm\obj\Debug\Algorithm.csprojAssemblyReference.cache
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\Algorithm\obj\Debug\Algorithm.dll
+C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\Algorithm\obj\Debug\Algorithm.pdb

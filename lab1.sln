@@ -15,6 +15,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLRPCServer", "XMLRPCServe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab6", "lab6\lab6.csproj", "{625F0D6E-90C2-48F5-9E3C-566E3D1E32AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm", "Algorithm\Algorithm.csproj", "{5D785219-B77B-4350-BA0B-2F5FA60DEA41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{B397CDB1-6EFA-4CEA-9571-48C3B163548E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5D785219-B77B-4350-BA0B-2F5FA60DEA41} = {5D785219-B77B-4350-BA0B-2F5FA60DEA41}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +52,14 @@ Global
 		{625F0D6E-90C2-48F5-9E3C-566E3D1E32AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{625F0D6E-90C2-48F5-9E3C-566E3D1E32AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{625F0D6E-90C2-48F5-9E3C-566E3D1E32AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D785219-B77B-4350-BA0B-2F5FA60DEA41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D785219-B77B-4350-BA0B-2F5FA60DEA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D785219-B77B-4350-BA0B-2F5FA60DEA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D785219-B77B-4350-BA0B-2F5FA60DEA41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B397CDB1-6EFA-4CEA-9571-48C3B163548E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B397CDB1-6EFA-4CEA-9571-48C3B163548E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B397CDB1-6EFA-4CEA-9571-48C3B163548E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B397CDB1-6EFA-4CEA-9571-48C3B163548E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

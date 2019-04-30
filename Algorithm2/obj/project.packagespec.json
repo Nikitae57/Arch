@@ -1,0 +1,65 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\projects\\arch\\labs\\Algorithm2\\Algorithm2.csproj",
+    "projectName": "Algorithm2",
+    "projectPath": "D:\\projects\\arch\\labs\\Algorithm2\\Algorithm2.csproj",
+    "outputPath": "D:\\projects\\arch\\labs\\Algorithm2\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "DotNet.Contracts": {
+          "target": "Package",
+          "version": "[1.10.20606.1, )"
+        },
+        "Microsoft.NETCore.Platforms": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[3.0.0-preview3.19128.7, )",
+          "autoReferenced": true
+        },
+        "Microsoft.WindowsDesktop.App": {
+          "include": "None",
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[3.0.0-preview3-27504-2, )",
+          "autoReferenced": true
+        },
+        "System.ServiceModel.Web": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        },
+        "runtime.win-x64.Microsoft.NETCore.DotNetAppHost": {
+          "include": "None",
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[3.0.0-preview3-27503-5, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

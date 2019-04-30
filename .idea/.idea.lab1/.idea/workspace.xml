@@ -5,17 +5,39 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.lab1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lab1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lab1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/Algorithm.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Algorithm.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Algorithm.csproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/AlgorithmService.svc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/AlgorithmService.svc.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/IAlgorithmService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Web.Debug.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Web.Release.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/bin/Algorithm.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/bin/Algorithm.dll.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/bin/Algorithm.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Client/Client.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Client.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/Client.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/Client.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/Client.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/Client.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/Client.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/Client.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Client/obj/Debug/Client.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/Client.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/XMLRPCClient.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/XMLRPCClient.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/App.config" beforeDir="false" afterPath="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/App.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/XMLRPCServer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/XMLRPCServer.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/Client.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/Client.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/lab1.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab2/obj/Debug/lab2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/obj/Debug/lab2.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/App.config" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/App.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/lab3.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/lab3.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab3/obj/Debug/lab3.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/obj/Debug/lab3.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/lab6.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/lab6.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/obj/Debug/lab6.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/obj/Debug/lab6.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,183 +48,152 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/Program.cs">
+        <entry file="file://$PROJECT_DIR$/Algorithm2/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <marker date="1556608045665" expanded="true" signature="53:135" ph="{...}" />
+                <marker date="1556608045665" expanded="true" signature="89:132" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm2/AlgorithmService.svc.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
               <folding>
-                <marker date="1556602560311" expanded="true" signature="6:159" ph="..." />
-                <marker date="1556602560311" expanded="true" signature="183:3135" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="202:3133" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="315:469" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="509:828" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="874:2599" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="1100:1233" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="1155:1228" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="1361:1442" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="1397:1437" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="1517:1626" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="1553:1621" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="1668:2074" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="1720:2069" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="1777:2063" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="1807:1843" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="1870:1969" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="1980:2056" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="2082:2522" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="2134:2517" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="2191:2511" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="2238:2274" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="2318:2417" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="2428:2504" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="2690:2743" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="2855:2899" ph="{...}" />
-                <marker date="1556602560311" expanded="true" signature="2955:3127" ph="{...}" />
+                <marker date="1556608229784" expanded="true" signature="21:1457" ph="{...}" />
+                <marker date="1556608229784" expanded="true" signature="25:366" ph="/* ПРИМЕЧАНИЕ. Команду &quot;Переименовать&quot; в меню &quot;Рефакторинг&quot; можно использовать для одновременного изменения имени ... */" />
+                <marker date="1556608229784" expanded="true" signature="417:1455" ph="{...}" />
+                <marker date="1556608229784" expanded="true" signature="465:751" ph="{...}" />
+                <marker date="1556608229784" expanded="true" signature="535:731" ph="{...}" />
+                <marker date="1556608229784" expanded="true" signature="598:627" ph="{...}" />
+                <marker date="1556608229784" expanded="true" signature="650:684" ph="{...}" />
+                <marker date="1556608229784" expanded="true" signature="693:726" ph="{...}" />
+                <marker date="1556608229784" expanded="true" signature="783:844" ph="{...}" />
+                <marker date="1556608229784" expanded="true" signature="894:1229" ph="{...}" />
+                <marker date="1556608229784" expanded="true" signature="972:1125" ph="{...}" />
+                <marker date="1556608229784" expanded="true" signature="1009:1120" ph="{...}" />
+                <marker date="1556608229784" expanded="true" signature="1280:1452" ph="{...}" />
+                <marker date="1556608229784" expanded="true" signature="1305:1327" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm2/AlgorithmService.svc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="62" selection-start-column="62" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm2/IAlgorithmService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              <folding>
+                <marker date="1556608229776" expanded="true" signature="21:908" ph="{...}" />
+                <marker date="1556608229776" expanded="true" signature="245:459" ph="{...}" />
+                <marker date="1556608229776" expanded="true" signature="252:304" ph="/* [OperationContract] ... */" />
+                <marker date="1556608229776" expanded="true" signature="574:906" ph="/* [DataContract] ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm2/Web.Debug.config">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm2/Web.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="127" column="49" lean-forward="true" selection-start-line="127" selection-start-column="49" selection-end-line="127" selection-end-column="49" />
+              <folding>
+                <marker date="1556611230276" expanded="true" signature="6:119" ph="..." />
+                <marker date="1556611230276" expanded="true" signature="182:3245" ph="{...}" />
+                <marker date="1556611230276" expanded="true" signature="205:625" ph="{...}" />
+                <marker date="1556611230276" expanded="true" signature="320:477" ph="{...}" />
+                <marker date="1556611230276" expanded="true" signature="648:1373" ph="{...}" />
+                <marker date="1556611230276" expanded="true" signature="776:1143" ph="{...}" />
+                <marker date="1556611230276" expanded="true" signature="1007:1139" ph="{...}" />
+                <marker date="1556611230276" expanded="true" signature="1422:1526" ph="{...}" />
+                <marker date="1556611230276" expanded="true" signature="1558:1621" ph="{...}" />
+                <marker date="1556611230276" expanded="true" signature="1656:2360" ph="{...}" />
+                <marker date="1556611230276" expanded="true" signature="1687:2079" ph="{...}" />
+                <marker date="1556611230276" expanded="true" signature="1756:2056" ph="{...}" />
+                <marker date="1556611230276" expanded="true" signature="2119:2357" ph="{...}" />
+                <marker date="1556611230276" expanded="true" signature="2217:2241" ph="{...}" />
+                <marker date="1556611230276" expanded="true" signature="2384:3243" ph="{...}" />
+                <marker date="1556611230276" expanded="true" signature="2420:3240" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Client/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <marker date="1556611606298" expanded="false" signature="6:200" ph="..." />
+                <marker date="1556611606298" expanded="true" signature="218:1593" ph="{...}" />
+                <marker date="1556611606298" expanded="true" signature="235:1591" ph="{...}" />
+                <marker date="1556611606298" expanded="true" signature="272:1588" ph="{...}" />
+                <marker date="1556611606298" expanded="true" signature="611:1573" ph="{...}" />
+                <marker date="1556611606298" expanded="true" signature="950:1568" ph="{...}" />
+                <marker date="1556611606298" expanded="true" signature="1239:1311" ph="{...}" />
+                <marker date="1556611606298" expanded="true" signature="1311:1397" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab6/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+              <folding>
+                <marker date="1556606924758" expanded="false" signature="6:146" ph="..." />
+                <marker date="1556606924758" expanded="true" signature="162:1111" ph="{...}" />
+                <marker date="1556606924758" expanded="true" signature="257:1109" ph="{...}" />
+                <marker date="1556606924758" expanded="true" signature="307:1010" ph="{...}" />
+                <marker date="1556606924758" expanded="true" signature="564:618" ph="{...}" />
+                <marker date="1556606924758" expanded="true" signature="626:984" ph="{...}" />
+                <marker date="1556606924758" expanded="true" signature="670:979" ph="{...}" />
+                <marker date="1556606924758" expanded="true" signature="803:947" ph="{...}" />
+                <marker date="1556606924758" expanded="true" signature="893:940" ph="{...}" />
+                <marker date="1556606924758" expanded="true" signature="1045:1106" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/App.config">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
               <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab3/Properties/Resources.resx">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab3/Properties/Settings.settings">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab3/controller/Client.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1482">
-              <caret line="88" column="13" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
-              <folding>
-                <marker date="1552982495200" expanded="false" signature="6:257" ph="..." />
-                <marker date="1552982495200" expanded="true" signature="280:1988" ph="{...}" />
-                <marker date="1552982495200" expanded="true" signature="303:1983" ph="{...}" />
-                <marker date="1552982495200" expanded="true" signature="518:803" ph="{...}" />
-                <marker date="1552982495200" expanded="true" signature="558:751" ph="{...}" />
-                <marker date="1552982495200" expanded="true" signature="775:799" ph="{...}" />
-                <marker date="1552982495200" expanded="true" signature="846:987" ph="{...}" />
-                <marker date="1552982495200" expanded="true" signature="1024:1136" ph="{...}" />
-                <marker date="1552982495200" expanded="true" signature="1035:1084" ph="{...}" />
-                <marker date="1552982495200" expanded="true" signature="1108:1132" ph="{...}" />
-                <marker date="1552982495200" expanded="true" signature="1175:1535" ph="{...}" />
-                <marker date="1552982495200" expanded="true" signature="1231:1294" ph="{...}" />
-                <marker date="1552982495200" expanded="true" signature="1318:1531" ph="{...}" />
-                <marker date="1552982495200" expanded="true" signature="1324:1526" ph="/* MessageBox.Show( ... */" />
-                <marker date="1552982495200" expanded="true" signature="1600:1980" ph="{...}" />
-                <marker date="1552982495200" expanded="true" signature="1611:1692" ph="{...}" />
-                <marker date="1552982495200" expanded="true" signature="1716:1972" ph="{...}" />
-                <marker date="1552982495200" expanded="true" signature="1740:1943" ph="/* MessageBox.Show( ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab3/App.config">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-              <folding>
-                <marker date="1554177822123" expanded="false" signature="6:159" ph="..." />
-                <marker date="1554177822123" expanded="true" signature="183:1303" ph="{...}" />
-                <marker date="1554177822123" expanded="true" signature="203:1301" ph="{...}" />
-                <marker date="1554177822123" expanded="true" signature="378:532" ph="{...}" />
-                <marker date="1554177822123" expanded="true" signature="577:1059" ph="{...}" />
-                <marker date="1554177822123" expanded="true" signature="829:1021" ph="{...}" />
-                <marker date="1554177822123" expanded="true" signature="928:1007" ph="{...}" />
-                <marker date="1554177822123" expanded="true" signature="1109:1295" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/ServersideObject.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
-              <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
-              <folding>
-                <marker date="1554177496731" expanded="false" signature="6:133" ph="..." />
-                <marker date="1554177496731" expanded="true" signature="157:3511" ph="{...}" />
-                <marker date="1554177496731" expanded="true" signature="186:3509" ph="{...}" />
-                <marker date="1554177496731" expanded="true" signature="304:367" ph="{...}" />
-                <marker date="1554177496731" expanded="true" signature="412:504" ph="{...}" />
-                <marker date="1554177496731" expanded="true" signature="536:989" ph="{...}" />
-                <marker date="1554177496731" expanded="true" signature="745:897" ph="{...}" />
-                <marker date="1554177496731" expanded="true" signature="897:979" ph="{...}" />
-                <marker date="1554177496731" expanded="true" signature="1101:1608" ph="{...}" />
-                <marker date="1554177496731" expanded="true" signature="1381:1531" ph="{...}" />
-                <marker date="1554177496731" expanded="true" signature="1659:3503" ph="{...}" />
-                <marker date="1554177496731" expanded="true" signature="1852:2042" ph="{...}" />
-                <marker date="1554177496731" expanded="true" signature="1907:2028" ph="{...}" />
-                <marker date="1554177496731" expanded="true" signature="2374:2521" ph="{...}" />
-                <marker date="1554177496731" expanded="true" signature="2599:2727" ph="{...}" />
-                <marker date="1554177496731" expanded="true" signature="2645:2697" ph="{...}" />
-                <marker date="1554177496731" expanded="true" signature="3106:3431" ph="{...}" />
-                <marker date="1554177496731" expanded="true" signature="3170:3380" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/nwc/XmlRpcServer.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="59" column="51" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
-              <folding>
-                <marker date="1552982495127" expanded="true" signature="20:4196" ph="{...}" />
-                <marker date="1552982495127" expanded="false" signature="31:228" ph="..." />
-                <marker date="1552982495127" expanded="true" signature="316:4194" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="462:600" ph="/* The constructor which make the TcpListener start listening on the ... */" />
-                <marker date="1552982495127" expanded="true" signature="634:736" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="761:1174" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="774:1030" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="1050:1166" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="1214:1265" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="1303:1352" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="1358:1744" ph="/// This function send the Header Information to the client (Browser) ... " />
-                <marker date="1552982495127" expanded="true" signature="1867:2432" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="1990:2067" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="2438:2549" ph="///This method Accepts new connections and dispatches them when appropriate. ... " />
-                <marker date="1552982495127" expanded="true" signature="2579:3152" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="2600:3144" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="2795:2964" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="2810:2847" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="2869:2955" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="2974:3116" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="3201:4021" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="3393:3482" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="3488:3722" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="3502:3555" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="3586:3640" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="3666:3717" ph="{...}" />
-                <marker date="1552982495127" expanded="true" signature="4027:4103" ph="///Add an XML-RPC handler object by name. ... " />
-                <marker date="1552982495127" expanded="true" signature="4148:4190" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -226,16 +217,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/nwc/XmlRpcServer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/lab3/controller/Client.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab2/controller/MainClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab2/controller/Server.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/DA2502C5-0798-42B1-9AAF-45D431B1301B/2d/83f301d7/System.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/lab3/Properties/Resources.resx" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab2/controller/ServerInterface.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab2/controller/ClientHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab2/model/HeartbeatMsg.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab3/view/Chat.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/lab1/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab1/Three.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab3/view/LoginMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -245,10 +233,22 @@
     <setting file="file://$PROJECT_DIR$/lab3/App.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab1/ConsoleHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab3/controller/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Client/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab1/Two.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab1/Four.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithm/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithm2/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab3/controller/Client.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab3/Properties/Resources.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Client/Connected Services/Algorithm/Reference.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab1/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithm2/Web.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithm2/Web.Debug.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithm2/IAlgorithmService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithm2/AlgorithmService.svc.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/ServersideObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/lab1/Four.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab6/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -280,13 +280,20 @@
         <option value="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/Program.cs" />
         <option value="$PROJECT_DIR$/lab3/App.config" />
         <option value="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/App.config" />
+        <option value="$PROJECT_DIR$/lab1.sln" />
+        <option value="$PROJECT_DIR$/Algorithm2/Program.cs" />
+        <option value="$PROJECT_DIR$/Algorithm2/AlgorithmService.svc" />
+        <option value="$PROJECT_DIR$/Algorithm2/AlgorithmService.svc.cs" />
+        <option value="$PROJECT_DIR$/Algorithm2/IAlgorithmService.cs" />
+        <option value="$PROJECT_DIR$/Algorithm/Program.cs" />
+        <option value="$PROJECT_DIR$/Client/Program.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -309,6 +316,25 @@
       </pane>
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="lab1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="lab1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Algorithm" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="lab1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Client" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
     </panes>
@@ -318,7 +344,7 @@
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="do_not_show_solution_notification" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/XMLRPCServer.csproj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Algorithm2/Web.Release.config" />
     <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
   </component>
   <component name="RunDashboard">
@@ -333,7 +359,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.RpcClient">
+  <component name="RunManager" selected=".NET Project.lab7_client">
     <configuration name="RpcClient" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/bin/Debug/XMLRPCClient.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -347,7 +373,7 @@
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -406,8 +432,46 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lab7_client" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Client/bin/Debug/Client.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Client/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Client/Client.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab7_server" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Algorithm/bin/Debug/Algorithm.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Algorithm/Algorithm.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue=".NET Project.RpcClient" />
+      <item itemvalue=".NET Project.lab7_server" />
+      <item itemvalue=".NET Project.lab7_client" />
       <item itemvalue=".NET Project.RpcServer" />
       <item itemvalue=".NET Project.lab1" />
       <item itemvalue=".NET Project.lab3" />
@@ -434,6 +498,7 @@
       <workItem from="1556602984958" duration="266000" />
       <workItem from="1556603271040" duration="81000" />
       <workItem from="1556603370317" duration="25000" />
+      <workItem from="1556608559646" duration="3876000" />
     </task>
     <task id="LOCAL-00001" summary="Added lab2. Fixed main function">
       <created>1551772867077</created>
@@ -446,7 +511,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23081000" />
+    <option name="totallyTimeSpent" value="27790000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -459,20 +524,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20268457" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28791946" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.49716714" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.75212467" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4036827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3286119" />
@@ -614,17 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
-          <folding>
-            <marker date="1552982495138" expanded="false" signature="6:91" ph="..." />
-            <marker date="1552982495138" expanded="true" signature="156:955" ph="{...}" />
-            <marker date="1552982495138" expanded="true" signature="294:624" ph="{...}" />
-            <marker date="1552982495138" expanded="true" signature="461:619" ph="{...}" />
-            <marker date="1552982495138" expanded="true" signature="667:747" ph="{...}" />
-            <marker date="1552982495138" expanded="true" signature="706:743" ph="{...}" />
-            <marker date="1552982495138" expanded="true" signature="796:952" ph="{...}" />
-            <marker date="1552982495138" expanded="true" signature="853:922" ph="{...}" />
-            <marker date="1552982495138" expanded="true" signature="889:908" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -897,10 +952,173 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Algorythm/Properties/AssemblyInfo.cs" />
+    <entry file="file://$PROJECT_DIR$/Algorithm2/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm2/Web.Release.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/Connected Services/Algorithm/Reference.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <marker date="1556606924556" expanded="true" signature="0:408" ph="/* ------------------------------------------------------------------------------ ... */" />
+            <marker date="1556606924556" expanded="true" signature="437:3530" ph="{...}" />
+            <marker date="1556606924556" expanded="true" signature="675:1666" ph="{...}" />
+            <marker date="1556606924556" expanded="true" signature="1878:1885" ph="{...}" />
+            <marker date="1556606924556" expanded="true" signature="2187:3528" ph="{...}" />
+            <marker date="1556606924556" expanded="true" signature="2238:2249" ph="{...}" />
+            <marker date="1556606924556" expanded="true" signature="2382:2393" ph="{...}" />
+            <marker date="1556606924556" expanded="true" signature="2563:2574" ph="{...}" />
+            <marker date="1556606924556" expanded="true" signature="2773:2784" ph="{...}" />
+            <marker date="1556606924556" expanded="true" signature="2977:2988" ph="{...}" />
+            <marker date="1556606924556" expanded="true" signature="3049:3115" ph="{...}" />
+            <marker date="1556606924556" expanded="true" signature="3210:3281" ph="{...}" />
+            <marker date="1556606924556" expanded="true" signature="3328:3382" ph="{...}" />
+            <marker date="1556606924556" expanded="true" signature="3463:3522" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab1.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1556608045665" expanded="true" signature="53:135" ph="{...}" />
+            <marker date="1556608045665" expanded="true" signature="89:132" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm2/AlgorithmService.svc.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1556608229784" expanded="true" signature="21:1457" ph="{...}" />
+            <marker date="1556608229784" expanded="true" signature="25:366" ph="/* ПРИМЕЧАНИЕ. Команду &quot;Переименовать&quot; в меню &quot;Рефакторинг&quot; можно использовать для одновременного изменения имени ... */" />
+            <marker date="1556608229784" expanded="true" signature="417:1455" ph="{...}" />
+            <marker date="1556608229784" expanded="true" signature="465:751" ph="{...}" />
+            <marker date="1556608229784" expanded="true" signature="535:731" ph="{...}" />
+            <marker date="1556608229784" expanded="true" signature="598:627" ph="{...}" />
+            <marker date="1556608229784" expanded="true" signature="650:684" ph="{...}" />
+            <marker date="1556608229784" expanded="true" signature="693:726" ph="{...}" />
+            <marker date="1556608229784" expanded="true" signature="783:844" ph="{...}" />
+            <marker date="1556608229784" expanded="true" signature="894:1229" ph="{...}" />
+            <marker date="1556608229784" expanded="true" signature="972:1125" ph="{...}" />
+            <marker date="1556608229784" expanded="true" signature="1009:1120" ph="{...}" />
+            <marker date="1556608229784" expanded="true" signature="1280:1452" ph="{...}" />
+            <marker date="1556608229784" expanded="true" signature="1305:1327" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm2/AlgorithmService.svc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="62" selection-start-column="62" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm2/IAlgorithmService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <marker date="1556608229776" expanded="true" signature="21:908" ph="{...}" />
+            <marker date="1556608229776" expanded="true" signature="245:459" ph="{...}" />
+            <marker date="1556608229776" expanded="true" signature="252:304" ph="/* [OperationContract] ... */" />
+            <marker date="1556608229776" expanded="true" signature="574:906" ph="/* [DataContract] ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm2/Web.Debug.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/App.config">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm2/Web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <marker date="1556606924758" expanded="false" signature="6:146" ph="..." />
+            <marker date="1556606924758" expanded="true" signature="162:1111" ph="{...}" />
+            <marker date="1556606924758" expanded="true" signature="257:1109" ph="{...}" />
+            <marker date="1556606924758" expanded="true" signature="307:1010" ph="{...}" />
+            <marker date="1556606924758" expanded="true" signature="564:618" ph="{...}" />
+            <marker date="1556606924758" expanded="true" signature="626:984" ph="{...}" />
+            <marker date="1556606924758" expanded="true" signature="670:979" ph="{...}" />
+            <marker date="1556606924758" expanded="true" signature="803:947" ph="{...}" />
+            <marker date="1556606924758" expanded="true" signature="893:940" ph="{...}" />
+            <marker date="1556606924758" expanded="true" signature="1045:1106" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="127" column="49" lean-forward="true" selection-start-line="127" selection-start-column="49" selection-end-line="127" selection-end-column="49" />
+          <folding>
+            <marker date="1556611230276" expanded="true" signature="6:119" ph="..." />
+            <marker date="1556611230276" expanded="true" signature="182:3245" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="205:625" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="320:477" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="648:1373" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="776:1143" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="1007:1139" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="1422:1526" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="1558:1621" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="1656:2360" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="1687:2079" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="1756:2056" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="2119:2357" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="2217:2241" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="2384:3243" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="2420:3240" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <marker date="1556611606298" expanded="false" signature="6:200" ph="..." />
+            <marker date="1556611606298" expanded="true" signature="218:1593" ph="{...}" />
+            <marker date="1556611606298" expanded="true" signature="235:1591" ph="{...}" />
+            <marker date="1556611606298" expanded="true" signature="272:1588" ph="{...}" />
+            <marker date="1556611606298" expanded="true" signature="611:1573" ph="{...}" />
+            <marker date="1556611606298" expanded="true" signature="950:1568" ph="{...}" />
+            <marker date="1556611606298" expanded="true" signature="1239:1311" ph="{...}" />
+            <marker date="1556611606298" expanded="true" signature="1311:1397" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

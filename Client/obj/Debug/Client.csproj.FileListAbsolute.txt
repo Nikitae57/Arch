@@ -5,3 +5,13 @@ C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архи
 C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\Client\obj\Debug\Client.exe
 C:\Users\EAZY_Admin\Google Диск\Лаборатоные работы\Архитектура\Arch\Client\obj\Debug\Client.pdb
+D:\projects\arch\labs\Client\bin\Debug\Client.exe.config
+D:\projects\arch\labs\Client\bin\Debug\Client.exe
+D:\projects\arch\labs\Client\bin\Debug\Client.pdb
+D:\projects\arch\labs\Client\bin\Debug\Algorithm.exe
+D:\projects\arch\labs\Client\bin\Debug\Algorithm.pdb
+D:\projects\arch\labs\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\projects\arch\labs\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\projects\arch\labs\Client\obj\Debug\Client.csproj.CopyComplete
+D:\projects\arch\labs\Client\obj\Debug\Client.exe
+D:\projects\arch\labs\Client\obj\Debug\Client.pdb

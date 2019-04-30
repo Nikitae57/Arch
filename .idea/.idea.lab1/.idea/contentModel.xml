@@ -6,18 +6,12 @@
     <e p="D:\projects\arch\labs" t="IncludeFlat">
       <e p="Algorithm" t="IncludeRecursive">
         <e p="Algorithm.csproj" t="IncludeRecursive" />
-        <e p="AlgorithmService.svc" t="Include" />
-        <e p="AlgorithmService.svc.cs" t="Include" />
-        <e p="App_Data" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="IAlgorithmService.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
-        <e p="Web.config" t="Include" />
-        <e p="Web.Debug.config" t="Include" />
-        <e p="Web.Release.config" t="Include" />
       </e>
       <e p="Client" t="IncludeRecursive">
         <e p="App.config" t="Include" />

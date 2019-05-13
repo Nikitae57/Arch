@@ -4,39 +4,24 @@
     <list default="true" id="b11d7512-5e68-477f-a23b-8aa2b7cef19a" name="Default Changelist" comment="Added lab 4 client">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.lab1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lab1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lab1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Algorithm.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Algorithm.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Algorithm.csproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/AlgorithmService.svc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/AlgorithmService.svc.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/IAlgorithmService.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Web.Debug.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Web.Release.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Web.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/bin/Algorithm.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/bin/Algorithm.dll.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/bin/Algorithm.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/bin/Debug/Algorithm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/bin/Debug/Algorithm.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/bin/Debug/Algorithm.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/bin/Debug/Algorithm.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/obj/Debug/Algorithm.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/Client.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Client.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/Client.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/Client.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/Client.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/Client.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/Client.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/Client.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/Client.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/Algorithm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/Algorithm.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/Algorithm.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/Algorithm.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Client/obj/Debug/Client.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/Client.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/Client.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/Client.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/obj/Debug/XMLRPCClient.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/obj/Debug/XMLRPCClient.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/obj/Debug/XMLRPCClient.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/obj/Debug/XMLRPCClient.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/obj/Debug/XMLRPCServer.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/obj/Debug/XMLRPCServer.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/lab1.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/obj/Debug/lab1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/obj/Debug/lab1.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/obj/Debug/lab2.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/obj/Debug/lab2.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab2/obj/Debug/lab2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/obj/Debug/lab2.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/obj/Debug/lab3.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/obj/Debug/lab3.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab3/obj/Debug/lab3.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/obj/Debug/lab3.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6/obj/Debug/lab6.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/obj/Debug/lab6.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab6/obj/Debug/lab6.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/obj/Debug/lab6.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,19 +32,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm2/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-              <folding>
-                <marker date="1556608045665" expanded="true" signature="53:135" ph="{...}" />
-                <marker date="1556608045665" expanded="true" signature="89:132" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithm2/AlgorithmService.svc.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -116,7 +88,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithm2/Web.config">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
+            <state relative-caret-position="76">
               <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
@@ -125,10 +97,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithm/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="127" column="49" lean-forward="true" selection-start-line="127" selection-start-column="49" selection-end-line="127" selection-end-column="49" />
+            <state relative-caret-position="2109">
+              <caret line="127" column="49" selection-start-line="127" selection-start-column="49" selection-end-line="127" selection-end-column="49" />
               <folding>
-                <marker date="1556611230276" expanded="true" signature="6:119" ph="..." />
+                <marker date="1556611230276" expanded="false" signature="6:119" ph="..." />
                 <marker date="1556611230276" expanded="true" signature="182:3245" ph="{...}" />
                 <marker date="1556611230276" expanded="true" signature="205:625" ph="{...}" />
                 <marker date="1556611230276" expanded="true" signature="320:477" ph="{...}" />
@@ -149,11 +121,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Client/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="209">
+              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
               <folding>
                 <marker date="1556611606298" expanded="false" signature="6:200" ph="..." />
                 <marker date="1556611606298" expanded="true" signature="218:1593" ph="{...}" />
@@ -163,6 +135,26 @@
                 <marker date="1556611606298" expanded="true" signature="950:1568" ph="{...}" />
                 <marker date="1556611606298" expanded="true" signature="1239:1311" ph="{...}" />
                 <marker date="1556611606298" expanded="true" signature="1311:1397" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab7/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="40" column="120" selection-start-line="40" selection-start-column="120" selection-end-line="40" selection-end-column="120" />
+              <folding>
+                <marker date="1557761815755" expanded="true" signature="6:50" ph="..." />
+                <marker date="1557761815755" expanded="true" signature="67:1586" ph="{...}" />
+                <marker date="1557761815755" expanded="true" signature="93:1584" ph="{...}" />
+                <marker date="1557761815755" expanded="true" signature="369:397" ph="{...}" />
+                <marker date="1557761815755" expanded="true" signature="419:1581" ph="{...}" />
+                <marker date="1557761815755" expanded="true" signature="749:874" ph="{...}" />
+                <marker date="1557761815755" expanded="true" signature="916:1043" ph="{...}" />
+                <marker date="1557761815755" expanded="true" signature="1091:1280" ph="{...}" />
+                <marker date="1557761815755" expanded="true" signature="1326:1460" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -222,6 +214,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/DA2502C5-0798-42B1-9AAF-45D431B1301B/2d/83f301d7/System.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab2/controller/ServerInterface.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab2/controller/ClientHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab7/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab2/model/HeartbeatMsg.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab3/view/Chat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab1/Three.cs" root0="FORCE_HIGHLIGHTING" />
@@ -287,13 +280,14 @@
         <option value="$PROJECT_DIR$/Algorithm2/IAlgorithmService.cs" />
         <option value="$PROJECT_DIR$/Algorithm/Program.cs" />
         <option value="$PROJECT_DIR$/Client/Program.cs" />
+        <option value="$PROJECT_DIR$/lab7/Program.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -303,18 +297,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="5427d58d:AssemblyExplorerRootNode" />
-              <item name="System (4.0.0.0, msil, .Net Framework v4.7.2)" type="5e97225f:AssemblyExplorerNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -325,17 +307,24 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="lab1" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Algorithm" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="lab1" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Client" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="lab7" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="5427d58d:AssemblyExplorerRootNode" />
+              <item name="System (4.0.0.0, msil, .Net Framework v4.7.2)" type="5e97225f:AssemblyExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
       </pane>
     </panes>
   </component>
@@ -359,7 +348,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.lab7_client">
+  <component name="RunManager" selected=".NET Project.lab7">
     <configuration name="RpcClient" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/XMLRPCClient/XMLRPCClient/bin/Debug/XMLRPCClient.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -432,6 +421,24 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lab7" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/lab7/bin/Debug/lab7.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab7/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/lab7/lab7.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="lab7_client" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/Client/bin/Debug/Client.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -472,6 +479,7 @@
       <item itemvalue=".NET Project.RpcClient" />
       <item itemvalue=".NET Project.lab7_server" />
       <item itemvalue=".NET Project.lab7_client" />
+      <item itemvalue=".NET Project.lab7" />
       <item itemvalue=".NET Project.RpcServer" />
       <item itemvalue=".NET Project.lab1" />
       <item itemvalue=".NET Project.lab3" />
@@ -499,6 +507,7 @@
       <workItem from="1556603271040" duration="81000" />
       <workItem from="1556603370317" duration="25000" />
       <workItem from="1556608559646" duration="3876000" />
+      <workItem from="1557746658693" duration="1940000" />
     </task>
     <task id="LOCAL-00001" summary="Added lab2. Fixed main function">
       <created>1551772867077</created>
@@ -511,7 +520,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27790000" />
+    <option name="totallyTimeSpent" value="29730000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -526,14 +535,14 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28791946" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29194632" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.75212467" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36685553" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4036827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -659,6 +668,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab2/doc.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="380">
@@ -667,11 +681,6 @@
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -1047,17 +1056,35 @@
     <entry file="file://$PROJECT_DIR$/Algorithm2/Web.Debug.config">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/App.config">
+    <entry file="file://$PROJECT_DIR$/Algorithm2/Web.config">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+        <state relative-caret-position="76">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm2/Web.config">
+    <entry file="file://$PROJECT_DIR$/Algorithm/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="2109">
+          <caret line="127" column="49" selection-start-line="127" selection-start-column="49" selection-end-line="127" selection-end-column="49" />
+          <folding>
+            <marker date="1556611230276" expanded="false" signature="6:119" ph="..." />
+            <marker date="1556611230276" expanded="true" signature="182:3245" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="205:625" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="320:477" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="648:1373" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="776:1143" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="1007:1139" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="1422:1526" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="1558:1621" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="1656:2360" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="1687:2079" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="1756:2056" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="2119:2357" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="2217:2241" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="2384:3243" ph="{...}" />
+            <marker date="1556611230276" expanded="true" signature="2420:3240" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1080,35 +1107,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/Program.cs">
+    <entry file="file://$PROJECT_DIR$/XMLRPCServer/XMLRPCServer/App.config">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="127" column="49" lean-forward="true" selection-start-line="127" selection-start-column="49" selection-end-line="127" selection-end-column="49" />
-          <folding>
-            <marker date="1556611230276" expanded="true" signature="6:119" ph="..." />
-            <marker date="1556611230276" expanded="true" signature="182:3245" ph="{...}" />
-            <marker date="1556611230276" expanded="true" signature="205:625" ph="{...}" />
-            <marker date="1556611230276" expanded="true" signature="320:477" ph="{...}" />
-            <marker date="1556611230276" expanded="true" signature="648:1373" ph="{...}" />
-            <marker date="1556611230276" expanded="true" signature="776:1143" ph="{...}" />
-            <marker date="1556611230276" expanded="true" signature="1007:1139" ph="{...}" />
-            <marker date="1556611230276" expanded="true" signature="1422:1526" ph="{...}" />
-            <marker date="1556611230276" expanded="true" signature="1558:1621" ph="{...}" />
-            <marker date="1556611230276" expanded="true" signature="1656:2360" ph="{...}" />
-            <marker date="1556611230276" expanded="true" signature="1687:2079" ph="{...}" />
-            <marker date="1556611230276" expanded="true" signature="1756:2056" ph="{...}" />
-            <marker date="1556611230276" expanded="true" signature="2119:2357" ph="{...}" />
-            <marker date="1556611230276" expanded="true" signature="2217:2241" ph="{...}" />
-            <marker date="1556611230276" expanded="true" signature="2384:3243" ph="{...}" />
-            <marker date="1556611230276" expanded="true" signature="2420:3240" ph="{...}" />
-          </folding>
+        <state relative-caret-position="57">
+          <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Client/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="209">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
           <folding>
             <marker date="1556611606298" expanded="false" signature="6:200" ph="..." />
             <marker date="1556611606298" expanded="true" signature="218:1593" ph="{...}" />
@@ -1118,6 +1127,24 @@
             <marker date="1556611606298" expanded="true" signature="950:1568" ph="{...}" />
             <marker date="1556611606298" expanded="true" signature="1239:1311" ph="{...}" />
             <marker date="1556611606298" expanded="true" signature="1311:1397" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab7/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="40" column="120" selection-start-line="40" selection-start-column="120" selection-end-line="40" selection-end-column="120" />
+          <folding>
+            <marker date="1557761815755" expanded="true" signature="6:50" ph="..." />
+            <marker date="1557761815755" expanded="true" signature="67:1586" ph="{...}" />
+            <marker date="1557761815755" expanded="true" signature="93:1584" ph="{...}" />
+            <marker date="1557761815755" expanded="true" signature="369:397" ph="{...}" />
+            <marker date="1557761815755" expanded="true" signature="419:1581" ph="{...}" />
+            <marker date="1557761815755" expanded="true" signature="749:874" ph="{...}" />
+            <marker date="1557761815755" expanded="true" signature="916:1043" ph="{...}" />
+            <marker date="1557761815755" expanded="true" signature="1091:1280" ph="{...}" />
+            <marker date="1557761815755" expanded="true" signature="1326:1460" ph="{...}" />
           </folding>
         </state>
       </provider>

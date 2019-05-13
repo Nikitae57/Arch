@@ -1,0 +1,9 @@
+D:\projects\arch\labs\lab7\bin\Debug\lab7.exe
+D:\projects\arch\labs\lab7\bin\Debug\lab7.pdb
+D:\projects\arch\labs\lab7\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\projects\arch\labs\lab7\bin\Debug\stdole.dll
+D:\projects\arch\labs\lab7\obj\Debug\lab7.csprojAssemblyReference.cache
+D:\projects\arch\labs\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+D:\projects\arch\labs\lab7\obj\Debug\lab7.csproj.CopyComplete
+D:\projects\arch\labs\lab7\obj\Debug\lab7.exe
+D:\projects\arch\labs\lab7\obj\Debug\lab7.pdb
